@@ -1,4 +1,6 @@
 # chinese_stock_market_data
+请先参阅[https://github.com/mdxys/bmUtils]
+
 A股股票数据
 本项目目标包含（具体看个人时间）：
 1. 2015年12月以后至2018年5月15日之间sz sh 主板股票5分钟数据
